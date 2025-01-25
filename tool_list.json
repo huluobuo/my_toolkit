@@ -1,0 +1,11 @@
+{
+    "dism++": [".\\dism++\\Dism++x64.exe", "Dism ++，不用多说了吧。"],
+    "DiskGenius": [".\\DiskGenius\\DiskGenius.exe", "硬盘操作"],
+    "BOOTICE": [".\\Others\\BOOTICE.exe", "硬盘操作"],
+    "Cpuz": [".\\Others\\Cpuz.exe", "计算机硬件信息获取"],
+    "GoHash": [".\\Others\\GoHash.EXE", "文件工具"],
+    "mouse": [".\\Others\\mouse.exe", "键盘控制鼠标"],
+    "SCANVIRUS": [".\\Others\\SCANVIRUS.EXE", "系统解剖"],
+    "SETPAGEFILE.EXE": [".\\Others\\SETPAGEFILE.EXE", "更改磁盘大小"],
+    "super_pi_mod": [".\\Others\\super_pi_mod.exe", "圆周率计算器（检测CPU和内存）"]
+}
